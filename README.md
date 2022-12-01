@@ -1,5 +1,5 @@
-# Padroes_Projeto
+Atividade Padrões de Projeto - 4ª Período
 
-Aqui terá todos os padrões desenvolvidos em sala
+Aqui terá todos os padrões desenvolvidos em sala sobre a disciplina de Fundamentos de Padrões de Projeto.
 
-by lucas
+Aluno >> Lucas Duarte de Oliveira
